@@ -1,1 +1,3 @@
 A small project, comes 'as is'! Addressing a surprising lack of simple options to graph solutions to simple DEs...
+
+euler_solver.py currently works out of the box, recreating a figure from *A First Course in Systems Biology* by E.O. Voit that inspired this work in the first place
